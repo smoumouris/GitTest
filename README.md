@@ -1,2 +1,2 @@
 # GitTest
-Testing repository
+*Testing repository*
